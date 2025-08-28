@@ -44,8 +44,8 @@ A static, mobile-friendly landing page promoting **shopping with delivery from D
    
 3.	Customize content:
     - Update Dubai_Project/ with images
-	  - Edit style.css for custom branding
-	  -	Replace shop/product links as needed
+    - Edit style.css for custom branding
+    - Replace shop/product links as needed
 
 ## 📸 Preview
 
