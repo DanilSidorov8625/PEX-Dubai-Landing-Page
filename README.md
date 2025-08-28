@@ -1,8 +1,8 @@
 # v2 – Dubai Landing Page (Tailwind Version)
+- **Contract Work for PEX**
 
 A modern, responsive landing page promoting **shopping with delivery from Dubai (UAE)**. Rebuilt with **TailwindCSS**, **Alpine.js**, and **Swiper**, this version improves styling, animations, interactivity, and includes full **language toggle (RU/EN)** support.
 
-- **Contract Work for PEX**
 
 ## ✨ Features
 - Sticky **navbar** with dropdowns + mobile menu  
