@@ -38,6 +38,7 @@ A static, mobile-friendly landing page promoting **shopping with delivery from D
    ```bash
    git clone git@github.com:DanilSidorov8625/PEX-Dubai-Landing-Page.git
    cd PEX-Dubai-Landing-Page
+   git checkout v1
    ```
    
 2.	Open index.html directly in your browser
